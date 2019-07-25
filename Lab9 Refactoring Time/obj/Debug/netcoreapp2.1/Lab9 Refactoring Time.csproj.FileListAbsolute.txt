@@ -1,0 +1,11 @@
+C:\Users\Jense\source\repos\Lab9 Refactoring Time\Lab9 Refactoring Time\bin\Debug\netcoreapp2.1\Lab9 Refactoring Time.deps.json
+C:\Users\Jense\source\repos\Lab9 Refactoring Time\Lab9 Refactoring Time\bin\Debug\netcoreapp2.1\Lab9 Refactoring Time.runtimeconfig.json
+C:\Users\Jense\source\repos\Lab9 Refactoring Time\Lab9 Refactoring Time\bin\Debug\netcoreapp2.1\Lab9 Refactoring Time.runtimeconfig.dev.json
+C:\Users\Jense\source\repos\Lab9 Refactoring Time\Lab9 Refactoring Time\bin\Debug\netcoreapp2.1\Lab9 Refactoring Time.dll
+C:\Users\Jense\source\repos\Lab9 Refactoring Time\Lab9 Refactoring Time\bin\Debug\netcoreapp2.1\Lab9 Refactoring Time.pdb
+C:\Users\Jense\source\repos\Lab9 Refactoring Time\Lab9 Refactoring Time\obj\Debug\netcoreapp2.1\Lab9 Refactoring Time.csprojAssemblyReference.cache
+C:\Users\Jense\source\repos\Lab9 Refactoring Time\Lab9 Refactoring Time\obj\Debug\netcoreapp2.1\Lab9 Refactoring Time.csproj.CoreCompileInputs.cache
+C:\Users\Jense\source\repos\Lab9 Refactoring Time\Lab9 Refactoring Time\obj\Debug\netcoreapp2.1\Lab9 Refactoring Time.AssemblyInfoInputs.cache
+C:\Users\Jense\source\repos\Lab9 Refactoring Time\Lab9 Refactoring Time\obj\Debug\netcoreapp2.1\Lab9 Refactoring Time.AssemblyInfo.cs
+C:\Users\Jense\source\repos\Lab9 Refactoring Time\Lab9 Refactoring Time\obj\Debug\netcoreapp2.1\Lab9 Refactoring Time.dll
+C:\Users\Jense\source\repos\Lab9 Refactoring Time\Lab9 Refactoring Time\obj\Debug\netcoreapp2.1\Lab9 Refactoring Time.pdb
